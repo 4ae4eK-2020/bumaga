@@ -1,0 +1,99 @@
+@font-face {
+    font-family: "Roboto";
+    src: url(/Fonts/Roboto/Roboto.ttf);
+}
+
+* {
+    margin: 0 auto;
+    font-family: Roboto;
+}
+
+body {
+    background-color: #EBEBEB;
+}
+
+p {
+    margin: 0;
+}
+
+.nav-link {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #4C5866;
+}
+
+.title {
+    font-family: Roboto;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #4C5866;
+}
+
+.button {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #7875FE;
+    border-color: #7875FE;
+    border-radius: 0;
+    padding: 20px 50px 20px 50px;
+}
+
+.card-hr {
+    max-width: 100%;
+}
+
+h2 {
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #666;
+}
+
+h2.card-title {
+    font-size: 30px;
+}
+
+h6 {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #B5B5BD;
+}
+
+.card-text {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 31px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #85859B;
+}
+
+.card-link {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #7875FE;
+    text-decoration-line: none;
+}
